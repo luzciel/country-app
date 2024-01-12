@@ -11,7 +11,8 @@ import { SearchBoxComponent } from './components/search-box/search-box.component
     AboutPageComponent,
     SearchBoxComponent,
     HomePageComponent,
-    SidebarComponent
+    SidebarComponent,
+    SearchBoxComponent
   ],
   imports: [
     CommonModule,
