@@ -14,9 +14,8 @@ import { SharedModule } from './shared/shared.module';
     AppComponent
   ],
   imports: [
-    BrowserModule,
-    // RouterOutlet,
     AppRoutingModule,
+    BrowserModule,
     HttpClientModule,
     SharedModule,
   ],

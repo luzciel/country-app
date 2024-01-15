@@ -9,12 +9,11 @@ import { SharedModule } from '../shared/shared.module';
 import { CountryTableComponent } from './components/country-table/country-table.component';
 
 
-
 @NgModule({
   declarations: [
     ByCapitalPageComponent,
-    ByRegionPageComponent,
     ByCountryPageComponent,
+    ByRegionPageComponent,
     CountryPageComponent,
     CountryTableComponent
   ],
